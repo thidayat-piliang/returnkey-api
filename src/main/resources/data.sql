@@ -1,0 +1,10 @@
+insert into orders values ('4028928382c669e50182c66a50370001', 'RK-478','john@example.com','MENS-156',2,50,'Small Black T-Shirt',null);
+insert into orders values ('4028928382c669e50182c66a50370002', 'RK-478','john@example.com','NIKE-7',1,110.75,'Nike Air Jordans - Size 7',null);
+insert into orders values ('4028928382c669e50182c66a50370003', 'RK-642','will@example.com','SOC-1',2,25.99,'Soccer Ball',null);
+insert into orders values ('4028928382c669e50182c66a50370004', 'RK-238','carly@example.com','MU-5091',3,15.25,'Lip Gloss',null);
+insert into orders values ('4028928382c669e50182c66a50370005', 'RK-238','carly@example.com','NIKE-56',1,75.5,'Nike Medium Red Leggings',null);
+insert into orders values ('4028928382c669e50182c66a50370006', 'RK-238','carly@example.com','MU-4129',2,22.85,'Eye Shadow',null);
+insert into orders values ('4028928382c669e50182c66a50370007', 'RK-912','karen@example.com','PAR-14',1,149.99,'Chanel - CHANCE EAU FRAÎCHE Eau de Toilette',null);
+insert into orders values ('4028928382c669e50182c66a50370008', 'RK-239','steve@example.com','MENS-156',1,50,'Small Black T-Shirt',null);
+insert into orders values ('4028928382c669e50182c66a50370009', 'RK-149','dalton@example.com','SOC-1',1,25.99,'Soccer Ball',null);
+insert into orders values ('4028928382c669e50182c66a50370010', 'RK-149','dalton@example.com','NIKE-143',1,249.99,'Nike Mercurial Superfly 8 Elite FG Firm Ground Soccer Cleat',null);
