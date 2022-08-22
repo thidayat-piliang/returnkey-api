@@ -1,9 +1,10 @@
-1. run application : gradlew bootRun / ./gradle bootRun
-2. test application
+1. git clone https://github.com/thidayat-piliang/returnkey-api.git
+2. run application : gradlew bootRun / ./gradle bootRun
+3. test application
     - using swagger, http://localhost:8080/swagger-ui/index.htm
     - direct url
 
-3. url for testing :
+4. url for testing :
 
    - get All orders : http://localhost:8080/orders
    - pending returns : http://localhost:8080/pending/returns?emailAddres=john%40example.com&orderId=RK-478
