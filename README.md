@@ -1,7 +1,7 @@
 1. run application : gradlew bootRun / ./gradle bootRun
 2. test application
-    a. using swagger, http://localhost:8080/swagger-ui/index.htm
-    b. direct url
+    - using swagger, http://localhost:8080/swagger-ui/index.htm
+    - direct url
 
 3. url for testing :
 
